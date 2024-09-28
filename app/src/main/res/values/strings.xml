@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JackpotPagerApplication</string>
+
+    <string name="empty_winners_card_text">No Winners Yet</string>
+    <string name="biggest_win_text">Biggest Win</string>
+    <string name="latest_win_text">Latest Win</string>
+    <string name="null_data_text">No jackpots available</string>
+    <string name="winner_card_bet_id_text">Bet ID: %s</string>
+    <string name="winner_card_diamond_title">Diamond</string>
+    <string name="winner_card_gold_title">Gold</string>
+    <string name="winner_card_silver_title">Silver</string>
+    <string name="winner_card_copper_title">Copper</string>
+</resources>
